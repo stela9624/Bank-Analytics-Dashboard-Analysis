@@ -1,7 +1,7 @@
 
 <img width="938" height="434" alt="Screenshot 2026-06-19 123423" src="https://github.com/user-attachments/assets/acdf729f-54b5-4580-a7c9-e4d7b90960c6" />
 
-# Bank-Analytics-Dashboard-Analysis
+# Bank-Analytics-Dashboard-Analysis-Excel
 Built an interactive Bank Loan Analytics Dashboard in Excel analyzing 65K+ loan records. Performed data cleaning, KPI calculations, pivot analysis, and created dynamic charts with slicers. Analyzed loan performance, repayment trends, borrower demographics, default rates, and branch-wise revenue for business insights.
 
 
